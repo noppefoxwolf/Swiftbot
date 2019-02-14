@@ -1,0 +1,97 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Commander",
+        "repositoryURL": "https://github.com/kylef/Commander.git",
+        "state": {
+          "branch": null,
+          "revision": "e5b50ad7b2e91eeb828393e89b03577b16be7db9",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "SKClient",
+        "repositoryURL": "https://github.com/SlackKit/SKClient",
+        "state": {
+          "branch": null,
+          "revision": "008e10a402f17519750a5b94c4cf6b16310abf18",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "SKCore",
+        "repositoryURL": "https://github.com/SlackKit/SKCore",
+        "state": {
+          "branch": null,
+          "revision": "b50637bb233308e15869c1aef77d20f4e1e10e2e",
+          "version": "4.1.3"
+        }
+      },
+      {
+        "package": "SKRTMAPI",
+        "repositoryURL": "https://github.com/SlackKit/SKRTMAPI",
+        "state": {
+          "branch": null,
+          "revision": "c46f78c588e619c0d547ecae264d77dfaff5c0f0",
+          "version": "4.1.2"
+        }
+      },
+      {
+        "package": "SKServer",
+        "repositoryURL": "https://github.com/SlackKit/SKServer",
+        "state": {
+          "branch": null,
+          "revision": "ee058e13e7bc0ef76b7f9abfd8182e806eb158b9",
+          "version": "4.1.2"
+        }
+      },
+      {
+        "package": "SKWebAPI",
+        "repositoryURL": "https://github.com/SlackKit/SKWebAPI",
+        "state": {
+          "branch": null,
+          "revision": "b5b303c7e5cdecd587499061a81128ef4d7ed3f1",
+          "version": "4.1.3"
+        }
+      },
+      {
+        "package": "SlackKit",
+        "repositoryURL": "https://github.com/SlackKit/SlackKit.git",
+        "state": {
+          "branch": null,
+          "revision": "c2f3731a69df85f852d089839edd14b6ed461b02",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "Spectre",
+        "repositoryURL": "https://github.com/kylef/Spectre.git",
+        "state": {
+          "branch": null,
+          "revision": "f14ff47f45642aa5703900980b014c2e9394b6e5",
+          "version": "0.9.0"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "state": {
+          "branch": null,
+          "revision": "ebdc260ea64e68f7569c62e8744b5cd15d3a49d6",
+          "version": "3.0.6"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/httpswift/swifter.git",
+        "state": {
+          "branch": null,
+          "revision": "f76bf391e127333a371e45c4e75f52f71cfd144f",
+          "version": "1.4.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
