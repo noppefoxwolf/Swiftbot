@@ -6,7 +6,11 @@ Swiftbot
 Swiftbot on slack.
 Inspired by [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot)
 
-# Setup
+# Usage
+
+`$ swiftbot --token xoxb-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxxxxxx`
+
+# Setup Example
 
 ## Ubuntu 18.04
 
