@@ -6,7 +6,11 @@ Swiftbot
 Swiftbot on slack.
 Inspired by [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot)
 
-# Setup
+# Usage
+
+`$ swiftbot --token xoxb-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxxxxxx`
+
+# Setup Example
 
 ## Ubuntu 18.04
 
@@ -49,7 +53,7 @@ git clone git@github.com:noppefoxwolf/Swiftbot.git
 
 cd Docker
 
-sudo docker build -t kishikawakatsumi/swift:4.1 .
+sudo docker build -t kishikawakatsumi/swift:4.2.1 .
 
 // Build and install Swiftbot
 
