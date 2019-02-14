@@ -3,6 +3,8 @@ Swiftbot
 <br>
 </h1>
 
+![](https://github.com/noppefoxwolf/Swiftbot/blob/master/Meta/example.gif)
+
 Swiftbot on slack.
 Inspired by [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot)
 
