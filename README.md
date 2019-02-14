@@ -49,7 +49,7 @@ git clone git@github.com:noppefoxwolf/Swiftbot.git
 
 cd Docker
 
-sudo docker build -t kishikawakatsumi/swift:4.1 .
+sudo docker build -t kishikawakatsumi/swift:4.2.1 .
 
 // Build and install Swiftbot
 
